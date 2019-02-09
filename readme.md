@@ -1,4 +1,4 @@
-![alt-text](https://raw.githubusercontent.com/jeromescuggs/monoeye/master/src/eye.png "monoeye")
+![alt-text](https://raw.githubusercontent.com/jeromescuggs/monoeye/master/src/eye.jpg "monoeye")
 
 # Monoeye - monokai, except gundam 
 
