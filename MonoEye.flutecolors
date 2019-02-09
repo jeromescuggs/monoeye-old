@@ -1,0 +1,27 @@
+{
+  "Name": "MonoEye",
+  "Author": "jerome",
+  "Colors": {
+    "Foreground": "#FFFFFF",
+    "Background": "#000000",
+    "Cursor": "#FFFFFF",
+    "CursorAccent": "#000000",
+    "Selection": "rgba(72, 85, 91, 0.6484375)",
+    "Black": "#4E6374",
+    "Red": "#C7253A",
+    "Green": "#718A6D",
+    "Yellow": "#BAAA4A",
+    "Blue": "#3465A4",
+    "Magenta": "#D79CAE",
+    "Cyan": "#06989A",
+    "White": "#D3D7CF",
+    "BrightBlack": "#889AB0",
+    "BrightRed": "#C3503B",
+    "BrightGreen": "#91B59B",
+    "BrightYellow": "#D9CF56",
+    "BrightBlue": "#729FCF",
+    "BrightMagenta": "#ECACBA",
+    "BrightCyan": "#A3C1B5",
+    "BrightWhite": "#EEEEEC"
+  }
+}
