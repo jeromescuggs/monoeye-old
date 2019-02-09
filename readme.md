@@ -18,9 +18,11 @@ Besides that, there are some other things I need to work out, but please be pati
 
 ## Color inspirations
 
-This is a quick breakdown of the specific sources for the colors used here: 
+This is a quick breakdown of the specific sources for the colors used here. 
 
-### Finished, more or less:
+![alt-text](https://raw.githubusercontent.com/jeromescuggs/monoeye/master/colors2.jpg "monoeye")
+
+### Finished, more or less
 
 * Red: can there even be a choice here? I sourced the reds from the one and only Char, and his custom Zaku II. 
 * Green: similarly, this was a no-brainer: the green shades come straight from the legendary MS-06 Zaku II. 
@@ -32,3 +34,7 @@ This is a quick breakdown of the specific sources for the colors used here:
 * Blue: oddly enough, I found the colors for blue while taking some screencaps of the Black Tri-Stars and their mobile suits - which seems like an obvious source for more purple-ish or black-ish colors. It wasn't perfect though, and I found a suitable light-colored blue in the default color of the MS-07 Gouf. 
 * Cyan: So far I managed to accidentally keep the colors in theme with a sort of MS0079 / Zeon theme, but the natural choice here seems like it would be to source the colors from Zeta Gundam's Kamille Biden. I'll look around some more. 
 * Whites: Probably going to source the white-ish/light grey colors from the RX-78, it only seems natural. 
+
+### Installation 
+
+** For now, the theme comes in a .flutecolors file, which is the theme file used by a newer terminal emulator, [Fluent Terminal](https://github.com/felixse/FluentTerminal). I'll be porting it to more universal formats soon, but the priority, obviously, will be actually finishing up the colors themselves. ** 
